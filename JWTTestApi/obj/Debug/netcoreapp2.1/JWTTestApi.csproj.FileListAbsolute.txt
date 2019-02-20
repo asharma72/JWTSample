@@ -1,0 +1,14 @@
+C:\projects\cosmosdbapi\JWTTestApi\bin\Debug\netcoreapp2.1\JWTTestApi.deps.json
+C:\projects\cosmosdbapi\JWTTestApi\bin\Debug\netcoreapp2.1\JWTTestApi.runtimeconfig.json
+C:\projects\cosmosdbapi\JWTTestApi\bin\Debug\netcoreapp2.1\JWTTestApi.runtimeconfig.dev.json
+C:\projects\cosmosdbapi\JWTTestApi\bin\Debug\netcoreapp2.1\JWTTestApi.dll
+C:\projects\cosmosdbapi\JWTTestApi\obj\Debug\netcoreapp2.1\JWTTestApi.csprojAssemblyReference.cache
+C:\projects\cosmosdbapi\JWTTestApi\obj\Debug\netcoreapp2.1\JWTTestApi.csproj.CoreCompileInputs.cache
+C:\projects\cosmosdbapi\JWTTestApi\obj\Debug\netcoreapp2.1\JWTTestApi.RazorAssemblyInfo.cache
+C:\projects\cosmosdbapi\JWTTestApi\obj\Debug\netcoreapp2.1\JWTTestApi.RazorAssemblyInfo.cs
+C:\projects\cosmosdbapi\JWTTestApi\obj\Debug\netcoreapp2.1\JWTTestApi.AssemblyInfoInputs.cache
+C:\projects\cosmosdbapi\JWTTestApi\obj\Debug\netcoreapp2.1\JWTTestApi.AssemblyInfo.cs
+C:\projects\cosmosdbapi\JWTTestApi\obj\Debug\netcoreapp2.1\JWTTestApi.RazorTargetAssemblyInfo.cache
+C:\projects\cosmosdbapi\JWTTestApi\bin\Debug\netcoreapp2.1\JWTTestApi.pdb
+C:\projects\cosmosdbapi\JWTTestApi\obj\Debug\netcoreapp2.1\JWTTestApi.dll
+C:\projects\cosmosdbapi\JWTTestApi\obj\Debug\netcoreapp2.1\JWTTestApi.pdb
